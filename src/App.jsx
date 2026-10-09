@@ -92,6 +92,7 @@ const WORKS = [
 const EXPERIENCES = [
   { role: "Kitchen Staff", employer: "Mushroom Cafe", initials: "MC", image: "/mushroom-cafe.png" },
   { role: "Cashier", employer: "Treats by Kit", initials: "TK", image: "/treats-by-kit.png", fullBleed: true },
+  { role: "Registrar", employer: "Liceo de Cagayan University", initials: "LCU", image: "/liceo-university.png", fullBleed: true },
 ];
 
 const css = `
